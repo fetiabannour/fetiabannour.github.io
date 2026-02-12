@@ -35,9 +35,9 @@ Introduction to imperative programming through the C language.
 Covers fundamental programming concepts, memory management, data structures, and modular design.
 Emphasis on problem solving and adopting an engineer’s approach to software development.
 
-- **Virtualisation et Cloud Networking (Advanced Option)**  
+- **Network Virtualisation (Advanced Option)**  
   Fundamentals of virtualization, containers, and network function deployment.  
-  Focus on SDN principles, controller–switch interaction, and orchestration tools.
+  Focus on SDN principles, controller–switch interaction, NFV placement, and orchestration tools.
 
 ---
 
