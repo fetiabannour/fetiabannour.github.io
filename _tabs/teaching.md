@@ -16,10 +16,8 @@ order: 4
 </style>
 
 
-I am involved in the teaching and coordination of several courses at the  
-[École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE)](https://www.ensiie.fr),  
-covering topics related to computer networks, distributed systems, and software infrastructures.  
-My teaching emphasizes both theoretical foundations and hands-on experimentation through lab sessions and student projects.
+I am involved in the teaching and coordination of several courses at the [École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE)](https://www.ensiie.fr),  
+covering topics related to computer networks, distributed systems, and software infrastructures. My teaching emphasizes both theoretical foundations and hands-on experimentation through lab sessions and student projects.
 
 ---
 
