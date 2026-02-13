@@ -30,15 +30,15 @@ My teaching emphasizes both theoretical foundations and hands-on experimentation
   Concepts of processes, scheduling, synchronization, memory management, and shell scripting.  
   Practical sessions using Linux for process control, system calls, and script-based automation.
 
-- **Programmation impérative & langage C (Imperative Programming & C)**
-Introduction to imperative programming through the C language.
-Covers fundamental programming concepts, memory management, data structures, and modular design.
-Emphasis on problem solving and adopting an engineer’s approach to software development.
+ - **Programmation impérative & langage C (Imperative Programming & C)**
+   Introduction to imperative programming through the C language.
+   Covers fundamental programming concepts, memory management, data structures, and modular design.
+   Emphasis on problem solving and adopting an engineer's approach to software development.
 
 - **Projet Informatique en C (C Programming Project)**
-Semester-long group programming project in C structured into multiple development milestones (lots).
-Students apply software engineering practices including modular design, memory management, testing, documentation, and version control.
-Introduction to tools such as Makefile, Doxygen, Valgrind, CUnit, GanttProject, and Git, followed by a substantial team-based implementation project emphasizing coordination and collaborative development.
+   Semester-long group programming project in C structured into multiple development milestones (lots).
+   Students apply software engineering practices including modular design, memory management, testing, documentation, and version control.
+   Introduction to tools such as Makefile, Doxygen, Valgrind, CUnit, GanttProject, and Git, followed by a substantial team-based implementation project emphasizing coordination and  collaborative development.
 
 - **Network Virtualisation (Advanced Option)**  
   Fundamentals of virtualization, containers, and network function deployment.  
