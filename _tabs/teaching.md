@@ -7,10 +7,11 @@ order: 4
 ---
 
 <style>
-.post-content p,
-.post-content li {
-  text-align: justify;
-  text-justify: inter-word;
+.content p,
+.content li,
+.page-content p,
+.page-content li {
+  text-align: justify !important;
 }
 </style>
 
