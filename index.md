@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Welcome"
-sidebar: false
 permalink: /
 ---
 
